@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Esto es un archivo **markdown**
+## Esto es un archivo de **markdown** README.md
 
 
